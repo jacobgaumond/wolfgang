@@ -1,9 +1,9 @@
 #! /opt/homebrew/bin/python3
 
 import os
-from lib.pitch import Pitch
-from lib.key import Key
-from lib.chord import Chord
+from src.progressionist.music_theory.pitch import Pitch
+from src.progressionist.music_theory.key import Key
+from src.progressionist.music_theory.chord import Chord
 
 APP_NAME = "Progressionist"
 

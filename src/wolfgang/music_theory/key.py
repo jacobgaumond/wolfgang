@@ -1,8 +1,8 @@
 #! /opt/homebrew/bin/python3
 
-from src.progressionist.music_theory.pitch import Pitch
-from src.progressionist.music_theory.scale import Scale
-from src.progressionist.music_theory.chord import Chord, DIMINISHED_SYMBOL
+from src.wolfgang.music_theory.pitch import Pitch
+from src.wolfgang.music_theory.scale import Scale
+from src.wolfgang.music_theory.chord import Chord, DIMINISHED_SYMBOL
 
 class Key:
 

@@ -1,11 +1,11 @@
 #! /opt/homebrew/bin/python3
 
 import os
-from src.progressionist.music_theory.pitch import Pitch
-from src.progressionist.music_theory.key import Key
-from src.progressionist.music_theory.chord import Chord
+from src.wolfgang.music_theory.pitch import Pitch
+from src.wolfgang.music_theory.key import Key
+from src.wolfgang.music_theory.chord import Chord
 
-APP_NAME = "Progressionist"
+APP_NAME = "Wolfgang"
 
 EXIT_BUTTON = 'Q'
 BACK_BUTTON = 'B'

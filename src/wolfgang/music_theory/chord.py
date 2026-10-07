@@ -1,6 +1,6 @@
 #! /opt/homebrew/bin/python3
 
-from src.progressionist.music_theory.pitch import Pitch
+from src.wolfgang.music_theory.pitch import Pitch
 
 DIMINISHED_SYMBOL = "°" # "dim" is also applicable in certain contexts
 
